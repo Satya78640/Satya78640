@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Satya Prakash — an aspiring Data Analyst passionate about turning raw data into meaningful insights.<br><br>📊 I work with SQL, Python, Excel, Power BI, and Tableau to analyze data, build interactive dashboards, and solve business problems.<br><br>🚀 Currently exploring data analytics, business intelligence, KPI reporting, and data-driven decision-making.<br><br>🎯 My goal is to turn data into insights that help businesses make smarter decisions.<br><br>🛠️ Skills: SQL | Python | Power BI | Excel | Tableau | Pandas | NumPy<br><br>
+👋 Hi, I'm Satya Prakash — an aspiring Data Analyst passionate about turning raw data into meaningful insights.<br>📊 I work with SQL, Python, Excel, Power BI, and Tableau to analyze data, build interactive dashboards, and solve business problems.<br>🚀 Currently exploring data analytics, business intelligence, KPI reporting, and data-driven decision-making.<br>🎯 My goal is to turn data into insights that help businesses make smarter decisions.<br>🛠️ Skills: SQL | Python | Power BI | Excel | Tableau | Pandas | NumPy<br><br>
 
 
 ## 🌐 Socials:
