@@ -4,8 +4,36 @@
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fitn_sp/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/satyaprakash16) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://studio.youtube.com/channel/UCqbutsI7_SkOS0gWaNt99Og/content) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## 💻 Tech Stack
+
+### 📊 Data Visualization & Business Intelligence
+![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 🗄️ Databases & SQL
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/GOOGLE_BIGQUERY-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![SQL Server](https://img.shields.io/badge/MICROSOFT_SQL_SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 🐍 Programming & Data Analysis
+![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 📈 Data Visualization Libraries
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+### 📑 Spreadsheet & Business Analysis
+![Excel](https://img.shields.io/badge/MICROSOFT_EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### 📐 Statistics & Probability
+![Statistics](https://img.shields.io/badge/STATISTICS-8E44AD?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Probability](https://img.shields.io/badge/PROBABILITY-3498DB?style=for-the-badge&logo=thealgorithms&logoColor=white)
+
+### ⚙️ Tools & Version Control
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Satya78640&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Satya78640&theme=dark&hide_border=false)<br/>
