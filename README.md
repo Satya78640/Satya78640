@@ -31,15 +31,6 @@
 ![Statistics](https://img.shields.io/badge/STATISTICS-8E44AD?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Probability](https://img.shields.io/badge/PROBABILITY-3498DB?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
-### ⚙️ Tools & Version Control
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Satya78640&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Satya78640&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Satya78640&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Satya78640&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
